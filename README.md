@@ -1,3 +1,6 @@
 # hello-world
 A simple 'Hello World' sample
-**Bold** _Italic_
+
+**Bold** 
+
+_Italic_
